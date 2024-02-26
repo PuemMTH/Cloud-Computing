@@ -55,7 +55,7 @@
     Server is running in container in rasp pi 4 server and it is rendering the client request.
 
     Server Name: Server 1
-    IP Address: 
-    
+  
+     IP Address: 
   </WelcomeItem>
 </template>
