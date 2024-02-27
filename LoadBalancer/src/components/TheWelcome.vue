@@ -49,13 +49,8 @@
       <CommunityIcon />
     </template>
     <template #heading>
-      Rendering from Server 1
+      Rendering from Server
     </template>
-
     Server is running in container in rasp pi 4 server and it is rendering the client request.
-
-    Server Name: Server 1
-  
-     IP Address: 
   </WelcomeItem>
 </template>
